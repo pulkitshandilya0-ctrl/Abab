@@ -1,0 +1,6 @@
+{
+  "name": "PDF Tech masters",
+  "description": "A complete, production-ready offline-first PDF suite. Edit, merge, split, annotate, secure, scan (OCR), and summarize PDFs with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
